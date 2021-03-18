@@ -1,0 +1,26 @@
+package PacoteJava;
+
+import java.util.Scanner;
+
+public class ExercicioCondicional {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Faça um programa que receba três inteiros e diga qual deles é o maior.
+		
+		int num1, num2, num3, maior;
+		
+		Scanner ler=new Scanner(System.in);
+		{
+			System.out.printf("Entre com o primeiro numero? ");
+			num1=ler.nextInt();
+			
+		}
+		
+		
+		
+
+	}
+
+}
